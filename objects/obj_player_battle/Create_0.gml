@@ -1,0 +1,1 @@
+data = obj_room_switcher_to_battle.player_data;

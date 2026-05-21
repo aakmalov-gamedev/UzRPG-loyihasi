@@ -1,0 +1,21 @@
+text_lines = [
+    "O'YIN BOSHQARUVI:",
+    "",
+    "[O'q tugmalari] - Menyu bo'ylab harakatlanish",
+    "[W-A-S-D] - bosh qahramonni boshqarish",
+    "[Space] - NPC'lar bilan aloqaga kirish, muloqotni davom ettirish",
+    "[Enter] - Tanlovni tasdiqlash",
+    "[Esc] - Qaytish",
+    "---",
+    "[Oq rangli zarba] - yengil zarba.",
+    "[Qizil ranglisi] - og'ir zarba.",
+    "[O'q] - jangdan qochish. [tavsiya etmayman].",
+    "",
+    "QO'SHMA IZOHLAR:",
+    "- Jang boshlashi uchun - dushman qahramoningizga teginishi kerak bo'ladi.",
+    "- Darajangiz ko'tarilishi uchun dushman maxluqlarni mag'lub eting.",
+    "- Har bir bosqichdagi dushmanlarni uxlatib bo'lganingizda ekranga maxsus xabar chiqariladi.",
+    "- Shu, xolos.",
+    "",
+    "...Zavqlaning!"
+];
